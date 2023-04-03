@@ -1,0 +1,13 @@
+phrase:
+  project_id: your_project_id
+  file_format: yml
+  push:
+    sources:
+    - file: ./config/.yml
+      params:
+        file_format: yml
+  pull:
+    targets:
+    - file: ./config/;.yml
+      params:
+        file_format: yml
