@@ -1,5 +1,5 @@
 phrase:
-  project_id: your_project_id
+  project_id: 2b9e520da3892c491cd21b2283e91ab9
   file_format: yml
   push:
     sources:
